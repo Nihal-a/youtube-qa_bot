@@ -1,5 +1,7 @@
 # 🤖 LLM Powered Assistants
 
+> This is my first step into the world of AI and Large Language Models — a small but meaningful project that marks the beginning of an exciting journey. Every great adventure starts somewhere, and this is mine.
+
 A Streamlit web app with three AI-powered features built on **Google Gemini 2.5 Flash** and **LangChain**.
 
 ## Features
